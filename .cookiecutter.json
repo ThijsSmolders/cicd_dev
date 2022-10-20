@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Thijs Smolders",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "smolders.thijs@gmail.com",
+  "friendly_name": "Cicd_Dev",
+  "github_user": "ThijsSmolders",
+  "license": "GPL-3.0",
+  "package_name": "cicd_dev",
+  "project_name": "cicd_dev",
+  "version": "0.1.0"
+}
